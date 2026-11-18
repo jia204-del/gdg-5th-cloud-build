@@ -18,6 +18,12 @@
       "description" : "股道熱腸",
       "category": "甜點",
       "price" : 11.45
+    },
+    {
+      "name" : "棍木"
+      "description" : " ",
+      "category": " ",
+      "price" : 0
     }
   ]
 }
