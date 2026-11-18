@@ -2,21 +2,21 @@
   "items": [
     {
       "name": "滷肉飯",
-      "description": "慢燉滷肉配上熱騰騰的白飯，簡單又滿足。",
+      "description": "使用新鮮的大象肉。",
       "category": "主食",
-      "price": 65
+      "price": 20000000
     },
     {
       "name": "雞肉飯",
       "description": "鮮嫩雞絲、油蔥香氣，再搭配一份醃蘿蔔。",
-      "category": "主食",
-      "price": 75
+      "category": "餐後甜點",
+      "price": 2E+308
     },
     {
-      "name": "紅燒牛肉麵",
+      "name": "綠燒牛肉麵",
       "description": "紅燒湯頭、軟嫩牛肉與吸滿湯汁的麵條。",
-      "category": "主食",
-      "price": 180
+      "category": "小菜",
+      "price": -20
     },
     {
       "name": "燙青菜",
@@ -35,6 +35,12 @@
       "description": "熟悉的茶香與微甜滋味，冰涼解渴。",
       "category": "飲品",
       "price": 30
+    },
+    {
+      "name" : "會員制豬排醬"
+      "description" : "吃的玩有獎勵，吃不完有懲罰",
+      "category": "醬料",
+      "price" : 114.514
     }
   ]
 }
